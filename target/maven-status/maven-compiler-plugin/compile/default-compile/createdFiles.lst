@@ -1,0 +1,12 @@
+lt/viko/eif/o/sharapova/libraryhateoas/controller/LibraryRestController.class
+lt/viko/eif/o/sharapova/libraryhateoas/exception/LibraryNotFoundException.class
+lt/viko/eif/o/sharapova/libraryhateoas/config/LoadDatabase.class
+lt/viko/eif/o/sharapova/libraryhateoas/model/Student.class
+lt/viko/eif/o/sharapova/libraryhateoas/LibraryHateoasApplication.class
+lt/viko/eif/o/sharapova/libraryhateoas/model/Library.class
+lt/viko/eif/o/sharapova/libraryhateoas/model/Author.class
+lt/viko/eif/o/sharapova/libraryhateoas/service/LibraryService.class
+lt/viko/eif/o/sharapova/libraryhateoas/exception/LibraryNotFoundAdvice.class
+lt/viko/eif/o/sharapova/libraryhateoas/repository/LibraryJpaRepository.class
+lt/viko/eif/o/sharapova/libraryhateoas/model/Book.class
+lt/viko/eif/o/sharapova/libraryhateoas/model/Loan.class

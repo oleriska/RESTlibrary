@@ -1,0 +1,12 @@
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/repository/LibraryJpaRepository.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/controller/LibraryRestController.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/model/Library.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/config/LoadDatabase.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/model/Loan.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/model/Author.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/exception/LibraryNotFoundException.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/LibraryHateoasApplication.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/model/Student.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/model/Book.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/service/LibraryService.java
+/Users/sergeychernikov/Documents/Development/workspaces/intellij-workspace/paid-works/SOAP-Test-Assignment-2/library-hateoas/src/main/java/lt/viko/eif/o/sharapova/libraryhateoas/exception/LibraryNotFoundAdvice.java
